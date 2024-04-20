@@ -1,0 +1,10 @@
+@import 'colors';
+
+.div{
+   > p {
+    width: 100%;
+    height: 40px;
+    font: 700 2rem $text1;
+   }
+    
+}
