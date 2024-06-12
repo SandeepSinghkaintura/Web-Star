@@ -4,7 +4,7 @@ function Footer() {
   return (
    <footer>
     <div>
-        <h1>Web Star</h1>
+        <h1>Tech Hiring 24</h1>
         <p>@all right reserved</p>
     </div>
     

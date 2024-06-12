@@ -8,7 +8,7 @@ function Home() {
     <div className='home' id='home'>
 
 <main>
-    <h1>WebStar</h1>
+    <h1>Tech Hiring 24</h1>
     <p>Solution to all your problems</p>
 </main>
 
